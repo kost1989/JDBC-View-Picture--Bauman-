@@ -1,11 +1,11 @@
-.classpath
-.project
-.class
-target/
-bin/
-.settings/
-.idea/
-*.iml
 *.class
+*.classpath
+*.project
+*.iml
 
-*.fxml
+targer/
+bin/
+out/
+.idea/
+.settings/
+
